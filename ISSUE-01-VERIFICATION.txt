@@ -1,0 +1,38 @@
+Liminal Window
+Volume 1, Number 1
+"State of Intent"
+
+Publication Date:
+March 15, 2026
+
+Publisher:
+Liminal Window Co
+
+--------------------------------------------------
+
+FILE
+Liminal-Window- Vol.1-No.1.pdf
+
+SHA256
+accf08f789268d916a25a9b3d81196cee0d53ddc56c41384daa904a25910cef3
+
+--------------------------------------------------
+
+Timestamp Verification
+
+OpenTimestamps proof file:
+Liminal-Window- Vol.1-No.1.pdf.ots
+
+Timestamp created:
+March 16, 2026
+
+--------------------------------------------------
+
+Verification
+
+To verify file integrity on Windows:
+
+certutil -hashfile "Liminal-Window- Vol.1-No.1.pdf" SHA256
+
+If the resulting hash matches the SHA256 above,
+the file is authentic and unchanged.
