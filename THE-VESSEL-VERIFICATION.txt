@@ -1,0 +1,37 @@
+Liminal Window
+"The Vessel That Steered The Sea"
+
+Publication Date:
+May 6th, 2026
+
+Publisher:
+Liminal Window Co
+
+--------------------------------------------------
+
+FILE
+Liminal-Window-The-Vessel-That-Steered-The-Sea.pdf
+
+SHA256
+5C38B94E0F55358F593CF197F982CEBAF3254268E4B3FD208DBE483839F353AE
+
+--------------------------------------------------
+
+Timestamp Verification
+
+OpenTimestamps proof file: 
+Liminal-Window-The-Vessel-That-Steered-The-Sea.pdf.ots
+
+Timestamp created:
+May 6th, 2026
+
+--------------------------------------------------
+
+Verification
+
+To verify file integrity on Windows:
+
+certutil -hashfile "Liminal-Window-The-Vessel-That-Steered-The-Sea.pdf" SHA256
+
+If the resulting hash matches the SHA256 above,
+the file is authentic and unchanged.
