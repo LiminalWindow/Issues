@@ -1,16 +1,42 @@
-# Issues
-Permanent archive of Liminal Window magazine issues, including publication files and cryptographic verification records.
+# Liminal Window — Issues Archive
 
-# Liminal Window — Issue Archive
+This repository serves as a permanent, version-controlled archive of Liminal Window publications.
 
-This repository serves as the permanent public archive for issues of *Liminal Window*.
+Each entry includes:
+- The official publication file (PDF)
+- A cryptographic timestamp (.ots)
+- A verification record (TXT)
 
-Each issue includes:
+These materials establish:
+- authorship
+- publication date
+- integrity of the document
 
-• The original publication file  
-• A cryptographic SHA256 verification hash for each issue  
-• A blockchain timestamp (OpenTimestamps proof)
+Publications are also archived across distributed repositories, including:
+- Internet Archive
+- Zenodo
+- Figshare
 
-These records allow anyone to verify the authenticity and integrity of the publication files.
+All files in this repository are considered part of the official publication record of Liminal Window.
 
+---
 
+## Structure
+
+Each publication follows this format:
+
+[Title].pdf  
+[Title].pdf.ots  
+[Title]-VERIFICATION.txt  
+
+---
+
+## Verification
+
+Timestamp files (.ots) can be verified using OpenTimestamps to confirm the document existed at or before its recorded time.
+
+---
+
+## About
+
+Liminal Window is an auteur publication created by Jaiden Hordosillo, who serves as writer, editor, illustrator, designer, and publisher.
