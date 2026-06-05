@@ -18,7 +18,7 @@ ISSN: 3071-1932
 File Information
 
 File:
-The.Poetics.of.Appetite.SEP-001.pdf
+SEP-001-The.Poetics.of.Appetite.pdf
 
 SHA-256:
 E501AA153B888C842C488A34EB04CF1C49846A39E788C78796D045839ADBF159
@@ -28,7 +28,7 @@ E501AA153B888C842C488A34EB04CF1C49846A39E788C78796D045839ADBF159
 Timestamp Information
 
 OpenTimestamps Proof File:
-The.Poetics.of.Appetite.SEP-001.pdf.ots
+SEP-001-The.Poetics.of.Appetite.pdf.ots
 
 Timestamp Created:
 June 5, 2026
@@ -39,7 +39,7 @@ Verification
 
 To verify file integrity on Windows:
 
-certutil -hashfile "The.Poetics.of.Appetite.SEP-001.pdf" SHA256
+certutil -hashfile "SEP-001-The.Poetics.of.Appetite.pdf" SHA256
 
 If the resulting SHA-256 hash matches the value recorded above, the file is authentic and has not been altered since publication.
 
